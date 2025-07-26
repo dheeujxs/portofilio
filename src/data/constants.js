@@ -191,6 +191,24 @@ export const projects = [
     webapp: "https://i-room-pied.vercel.app/",
     github:'https://github.com/dheeujxs/i-room'
   },
+
+    {
+     id:2,
+    title: "zentix",
+    date: "june 2025 - sjuly 2025",
+    description:
+      "SaaS AI Website builder",
+    tags: [
+     "Next js",
+     "shadcn-ui",
+     'inngest',
+     'Gemini Api key',
+     'clerk'
+    ],
+    category: "web app",
+    webapp: "zentix-cgy2.vercel.app/",
+    github:'https://github.com/dheeujxs/zentix'
+  },
  
 ]
 export const TimeLineData = [
