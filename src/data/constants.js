@@ -206,7 +206,7 @@ export const projects = [
      'clerk'
     ],
     category: "web app",
-    webapp: "htts://zentix-cgy2.vercel.app/",
+    webapp: "https://zentix-cgy2.vercel.app/",
     github:'https://github.com/dheeujxs/zentix'
   },
  
